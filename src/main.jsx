@@ -15,7 +15,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/project-mern-schedule-01/">
+      <BrowserRouter basename="/react_node_fs_68_WerewolfDevLearn/">
         <ThemeContextProvider>
           <App />
         </ThemeContextProvider>

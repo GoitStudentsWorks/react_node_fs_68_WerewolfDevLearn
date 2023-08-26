@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components'
     }
   },
-  base: '/project-mern-schedule-01/'
+  base: '/react_node_fs_68_WerewolfDevLearn/'
 });
